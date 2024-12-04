@@ -2,7 +2,7 @@
 
 Stock Price Prediction using LSTM
 Overview
-This project implements a Stock Price Prediction Model using LSTM (Long Short-Term Memory) neural networks. It predicts the future closing price of Tata Motors stock (TATAMOTORS.NS) based on historical data obtained from Yahoo Finance.
+This project implements a Stock Price Prediction Model using LSTM (Long Short-Term Memory) neural networks. It predicts the future closing price of any company based on historical data obtained from Yahoo Finance.
 
 The project showcases:
 
