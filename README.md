@@ -18,12 +18,14 @@ Installation:
 5. enter the stock ticker and it will display the original vs prediction graphs
 
 The project showcases:
+
 Data Retrieval and Preprocessing.
 Feature Engineering: Incorporates technical indicators like moving averages.
 Model Development: Builds an LSTM-based deep learning model.
 Evaluation and Visualization: Compares actual and predicted stock prices.
 
-Features
+Features:
+
 Data Scraping: Fetches historical stock data using the yfinance library.
 Moving Average Calculation: Computes 100-day and 200-day moving averages for trend analysis.
 Data Normalization: Scales data for efficient model training using MinMaxScaler.
