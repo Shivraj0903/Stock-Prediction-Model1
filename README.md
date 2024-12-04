@@ -38,6 +38,7 @@ Data Normalization: Scales data for efficient model training using MinMaxScaler.
 LSTM Model:
 Handles sequential dependencies in time-series data.
 Multiple LSTM layers with dropout to prevent overfitting.
+
 Visualization:
 Plots actual vs. predicted prices.
 
