@@ -9,7 +9,6 @@ Installation
 Overview
 Features
 
-
 Installation:
 1. download the github repository. make sure all the files are in the same folder.
 2. Once done, open the folder and click on address bar and type 'cmd'.(replacing the folder address.
